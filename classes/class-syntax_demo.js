@@ -46,7 +46,7 @@ const Punkt = makeClass()
 const punkt = new Punkt(2, 3)
 console.log(punkt)
 console.log(punkt.x, punkt.y)
-punkt.setX = 6
-punkt.setY = 5
+punkt.setX = 4
+punkt.setY = 7
 console.log(punkt)
 console.log(punkt.x, punkt.y)
